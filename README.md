@@ -1,0 +1,2 @@
+# Analysis-of-Booking-Cancellations-in-City-and-Resort-Hotels
+This analysis delved into booking cancellation patterns in city and resort hotels. Through careful data examination, I identified key factors causing cancellations, addressing a major business challenge. Insights led to clear suggestions, offering strategies to enhance satisfaction and streamline operations for both city hotels and resorts. 
